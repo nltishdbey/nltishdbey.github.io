@@ -1,2 +1,2 @@
-# nitish.github.io
+# nltishdbey.github.io
 This is a personal website
